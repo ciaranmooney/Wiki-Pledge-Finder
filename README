@@ -1,0 +1,1 @@
+Parses the LHS wiki to find pledges. It outputs how much is left till pledge is complete and who hasn't paid.
